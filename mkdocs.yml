@@ -1,6 +1,6 @@
-site_name: Proton-docs
+site_name: Rooster POS Docs
 theme: readthedocs
-repo_url: https://github.com/SugarLam1207/Proton-docs-template
+repo_url: https://github.com/RoosterPay/RoosterPOSHandbook
 
 nav:
   - 主頁:
